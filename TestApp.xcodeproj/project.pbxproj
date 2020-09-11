@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AE5B2641250B959B007843FA /* DefaultTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE5B2640250B959B007843FA /* DefaultTableViewCell.swift */; };
 		AEDA04A3243DC6E300167969 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA04A2243DC6E300167969 /* AppDelegate.swift */; };
 		AEDA04A5243DC6E300167969 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA04A4243DC6E300167969 /* SceneDelegate.swift */; };
 		AEDA04A7243DC6E300167969 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDA04A6243DC6E300167969 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AE5B2640250B959B007843FA /* DefaultTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultTableViewCell.swift; sourceTree = "<group>"; };
 		AEDA049F243DC6E300167969 /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEDA04A2243DC6E300167969 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AEDA04A4243DC6E300167969 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				AEDA04A2243DC6E300167969 /* AppDelegate.swift */,
 				AEDA04A4243DC6E300167969 /* SceneDelegate.swift */,
 				AEDA04A6243DC6E300167969 /* ViewController.swift */,
+				AE5B2640250B959B007843FA /* DefaultTableViewCell.swift */,
 				AEDA04A8243DC6E300167969 /* Main.storyboard */,
 				AEDA04AB243DC6E400167969 /* Assets.xcassets */,
 				AEDA04AD243DC6E400167969 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEDA04A7243DC6E300167969 /* ViewController.swift in Sources */,
+				AE5B2641250B959B007843FA /* DefaultTableViewCell.swift in Sources */,
 				AEDA04A3243DC6E300167969 /* AppDelegate.swift in Sources */,
 				AEDA04A5243DC6E300167969 /* SceneDelegate.swift in Sources */,
 			);
